@@ -134,6 +134,7 @@ English | [中文](README-zh.md)
 + [deviantART](https://www.deviantart.com/developers/) - Allows to get data of deviantart.com.
 
 ### Development
++ [Arch Tools](https://archtools.dev/docs) - 58 API tools behind one key. Web scraping, AI generation (Claude/GPT-4/Grok/Gemini), crypto data, voice, email, and more. MCP native with x402 USDC payments. 250 free credits.
 + [ARTIK Cloud](https://developer.artik.cloud/documentation/api-reference/) - The ARTIK Cloud API provides access to the ARTIK Cloud platform.
 + [AT&T M2X](https://m2x.att.com/developer/documentation/v2/overview) - M2X's RESTful API streamlines the connection between devices and the M2X service, allowing you to build applications and services that leverage time-series data analytics and distributed, high-availability time-series data storage, to deliver meaningful information to your customers and end-users and build IOT and M2M solutions without managing your own storage infrastructure.
 + [Bitbucket](https://developer.atlassian.com/cloud/bitbucket/) - Bitbucket is a web-based hosting service that is owned by Atlassian, used for source code and development projects that use either Mercurial or Git revision control systems.
