@@ -225,6 +225,7 @@ English | [中文](README-zh.md)
 + [Yeelight](http://www.yeelight.com/en_US/developer) - Yeelight smart LED products support remote control through WiFi.
 
 ### Machine Learning
++ [Arch Tools](https://archtools.dev) - 61 production AI tools including text generation, web scraping, crypto data, sentiment analysis, OCR, text-to-speech, and more. Supports x402 USDC pay-per-call and traditional API keys. MCP-compatible for AI agent integration.
 + [Amazon Machine Learning](https://aws.amazon.com/cn/documentation/machine-learning/) - Amazon Machine Learning makes it easy for developers to build smart applications, including applications for fraud detection, demand forecasting, targeted marketing, and click prediction.
 + [BigML](https://bigml.com/api) - The BigML platform features anomaly detection, cluster analysis, SunBurst visualization for decision trees, text analysis, and more.
 + [Diffbot](https://www.diffbot.com/dev/docs/) - The Diffbot platform utilizes a combination of AI, computer vision, machine learning, and natural language processing to automatically extract data from web pages such as text, images, video, product information, and comments.
